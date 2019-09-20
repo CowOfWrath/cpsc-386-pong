@@ -1,2 +1,7 @@
 # cpsc-386-pong
-Implementation of the game Pong with no walls
+
+Ryan Chen
+
+893219394
+
+ryan.chen@csu.fullerton.edu
